@@ -1,0 +1,11 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "name": "Acme Help",
+  "colors": { "primary": "#db2777" },
+  "navigation": {
+    "groups": [
+      { "group": "Get started", "pages": ["index", "getting-started"] },
+      { "group": "Help", "pages": ["faq", "troubleshooting"] }
+    ]
+  }
+}
